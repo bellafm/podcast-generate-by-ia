@@ -66,7 +66,6 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ## 👨‍💻 Expert
 
-<p>
     
     <p>&nbsp&nbsp&nbspIsabella Mesquita<br>
     &nbsp&nbsp&nbsp
